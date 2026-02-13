@@ -1,0 +1,73 @@
+State,City,SAM_System_Loss_%,Temp_Loss_%,Soil_Loss_%,Humid_Loss_%
+Delhi,Delhi,22.52,9.62,3.99,1.41
+Delhi,New Delhi,22.63,9.62,4.03,1.48
+Mahārāshtra,Mumbai,23.78,10.0,4.56,1.71
+Mahārāshtra,Pune,23.66,9.93,4.84,1.39
+Mahārāshtra,Nāgpur,23.13,10.0,4.41,1.22
+West Bengal,Kolkāta,23.08,10.0,3.7,1.88
+West Bengal,Hāora,23.05,10.0,3.69,1.86
+West Bengal,Durgāpur,23.06,10.0,3.97,1.59
+Karnātaka,Bangalore,23.49,9.39,5.09,1.51
+Karnātaka,Mysore,24.05,9.82,5.25,1.47
+Karnātaka,Hubli,24.04,10.0,5.19,1.35
+Tamil Nādu,Chennai,24.27,10.0,4.96,1.81
+Tamil Nādu,Madurai,23.86,10.0,4.96,1.4
+Tamil Nādu,Coimbatore,24.22,10.0,5.16,1.57
+Telangana,Hyderābād,23.84,10.0,5.02,1.32
+Telangana,Warangal,23.46,10.0,4.64,1.32
+Telangana,Nizāmābād,23.44,10.0,4.74,1.2
+Gujarāt,Ahmadābād,23.08,10.0,4.47,1.12
+Gujarāt,Sūrat,23.47,10.0,4.5,1.47
+Gujarāt,Vadodara,23.17,10.0,4.44,1.23
+Uttar Pradesh,Lucknow,22.92,9.99,3.94,1.48
+Uttar Pradesh,Cawnpore,23.14,10.0,4.18,1.46
+Uttar Pradesh,Mirzāpur,22.96,10.0,4.05,1.41
+Rājasthān,Jaipur,22.65,9.81,4.25,1.09
+Rājasthān,Kota,23.12,10.0,4.43,1.19
+Rājasthān,Jodhpur,22.74,10.0,4.3,0.94
+Madhya Pradesh,Indore,22.94,9.85,4.37,1.22
+Madhya Pradesh,Bhopāl,22.94,9.83,4.31,1.29
+Madhya Pradesh,Jabalpur,23.29,10.0,4.42,1.36
+Andhra Pradesh,Visakhapatnam,24.0,10.0,4.64,1.86
+Andhra Pradesh,Bezwāda,23.52,10.0,4.48,1.55
+Andhra Pradesh,Guntūr,23.54,10.0,4.53,1.51
+Bihār,Patna,22.85,10.0,3.78,1.57
+Bihār,Gaya,23.02,10.0,4.12,1.4
+Bihār,Bhāgalpur,23.08,10.0,3.85,1.73
+Punjab,Ludhiāna,22.12,9.03,3.96,1.62
+Punjab,Amritsar,21.99,9.01,3.86,1.61
+Punjab,Jalandhar,21.88,8.88,3.81,1.69
+Jharkhand,Jamshedpur,23.06,10.0,4.08,1.48
+Jharkhand,Dhanbād,23.1,10.0,4.18,1.42
+Jharkhand,Rānchi,22.59,9.4,4.29,1.4
+Haryāna,Farīdābād,22.55,9.7,3.99,1.35
+Haryāna,Rohtak,22.48,9.55,4.06,1.38
+Haryāna,Hisar,22.52,9.69,4.07,1.26
+Jammu and Kashmīr,Srīnagar,17.69,4.64,4.05,1.5
+Jammu and Kashmīr,Jammu,21.55,8.76,3.82,1.46
+Jammu and Kashmīr,Handwāra,17.59,5.13,3.9,1.07
+Chhattīsgarh,Bhilai,23.19,10.0,4.27,1.42
+Chhattīsgarh,Raipur,23.16,10.0,4.31,1.35
+Chhattīsgarh,Bilāspur,23.12,10.0,4.31,1.31
+Chandīgarh,Chandīgarh,21.88,9.11,3.95,1.32
+Assam,Dispur,22.13,9.58,3.08,1.97
+Assam,Guwāhāti,22.39,9.74,3.13,2.02
+Odisha,Bhubaneshwar,23.46,10.0,4.17,1.79
+Odisha,Raurkela,23.24,10.0,4.26,1.49
+Odisha,Cuttack,23.47,10.0,4.2,1.77
+Kerala,Thiruvananthapuram,24.46,10.0,4.78,2.18
+Kerala,Kochi,24.54,10.0,4.79,2.24
+Kerala,Calicut,24.6,10.0,4.94,2.16
+Uttarakhand,Dehra Dūn,21.11,8.2,3.83,1.58
+Tripura,Agartala,23.12,10.0,3.69,1.93
+Mizoram,Āīzawl,21.24,7.69,4.27,1.78
+Manipur,Imphāl,22.01,8.5,4.31,1.7
+Puducherry,Puducherry,24.31,10.0,4.89,1.92
+Himāchal Pradesh,Shimla,17.57,4.61,3.84,1.62
+Meghālaya,Shillong,20.17,6.97,3.81,1.89
+Andaman and Nicobar Islands,Port Blair,24.63,10.0,4.97,2.16
+Sikkim,Gangtok,18.8,6.03,3.3,1.97
+Nāgāland,Kohīma,19.94,6.85,3.55,2.05
+Arunāchal Pradesh,Itānagar,21.35,8.86,3.01,1.98
+Goa,Panaji,24.24,10.0,4.89,1.85
+Lakshadweep,Kavaratti,24.94,10.0,5.23,2.2

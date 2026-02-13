@@ -1,0 +1,73 @@
+State,City,Lat,Lng,SAPM_System_Loss_%
+Delhi,Delhi,28.66,77.23,9.82
+Delhi,New Delhi,28.7,77.2,9.76
+Mahārāshtra,Mumbai,18.9667,72.8333,10.24
+Mahārāshtra,Pune,18.5196,73.8553,9.53
+Mahārāshtra,Nāgpur,21.1539,79.0831,10.81
+West Bengal,Kolkāta,22.5411,88.3378,10.58
+West Bengal,Hāora,22.59,88.31,10.67
+West Bengal,Durgāpur,23.55,87.32,10.95
+Karnātaka,Bangalore,12.9699,77.598,8.15
+Karnātaka,Mysore,12.3086,76.6531,9.22
+Karnātaka,Hubli,15.36,75.125,9.24
+Tamil Nādu,Chennai,13.0825,80.275,10.32
+Tamil Nādu,Madurai,9.9197,78.1194,11.73
+Tamil Nādu,Coimbatore,11.0,76.9667,9.56
+Telangana,Hyderābād,17.3667,78.4667,9.76
+Telangana,Warangal,17.9756,79.6011,10.71
+Telangana,Nizāmābād,18.6704,78.1,10.55
+Gujarāt,Ahmadābād,23.03,72.58,10.73
+Gujarāt,Sūrat,21.17,72.83,10.55
+Gujarāt,Vadodara,22.3,73.2,11.0
+Uttar Pradesh,Lucknow,26.847,80.947,10.27
+Uttar Pradesh,Cawnpore,26.4725,80.3311,10.34
+Uttar Pradesh,Mirzāpur,25.15,82.58,10.83
+Rājasthān,Jaipur,26.9167,75.8667,9.77
+Rājasthān,Kota,25.18,75.83,10.4
+Rājasthān,Jodhpur,26.2918,73.0168,9.77
+Madhya Pradesh,Indore,22.7206,75.8472,9.36
+Madhya Pradesh,Bhopāl,23.25,77.4167,9.52
+Madhya Pradesh,Jabalpur,23.1667,79.9333,10.18
+Andhra Pradesh,Visakhapatnam,17.7333,83.3167,10.48
+Andhra Pradesh,Bezwāda,16.5167,80.6167,11.6
+Andhra Pradesh,Guntūr,16.3,80.45,11.61
+Bihār,Patna,25.61,85.1414,10.47
+Bihār,Gaya,24.75,85.0167,10.8
+Bihār,Bhāgalpur,25.25,87.0167,10.56
+Punjab,Ludhiāna,30.9083,75.8486,10.06
+Punjab,Amritsar,31.6167,74.85,10.15
+Punjab,Jalandhar,31.3256,75.5792,9.95
+Jharkhand,Jamshedpur,22.8,86.1833,11.1
+Jharkhand,Dhanbād,23.7928,86.435,10.66
+Jharkhand,Rānchi,23.3556,85.3347,9.15
+Haryāna,Farīdābād,28.4333,77.3167,9.91
+Haryāna,Rohtak,28.9,76.5667,9.93
+Haryāna,Hisar,29.1489,75.7367,10.19
+Jammu and Kashmīr,Srīnagar,34.0911,74.8061,4.76
+Jammu and Kashmīr,Jammu,32.7333,74.85,9.84
+Jammu and Kashmīr,Handwāra,34.4,74.28,5.94
+Chhattīsgarh,Bhilai,21.2167,81.4333,10.84
+Chhattīsgarh,Raipur,21.2379,81.6337,11.08
+Chhattīsgarh,Bilāspur,22.15,82.0167,11.12
+Chandīgarh,Chandīgarh,30.7353,76.7911,9.32
+Assam,Dispur,26.15,91.77,10.33
+Assam,Guwāhāti,26.1667,91.7667,10.51
+Odisha,Bhubaneshwar,20.2644,85.8281,10.93
+Odisha,Raurkela,22.2492,84.8828,11.11
+Odisha,Cuttack,20.45,85.8667,11.1
+Kerala,Thiruvananthapuram,8.5,76.8997,10.0
+Kerala,Kochi,9.9667,76.2833,10.51
+Kerala,Calicut,11.25,75.7667,10.73
+Uttarakhand,Dehra Dūn,30.318,78.029,9.25
+Tripura,Agartala,23.8333,91.2667,10.62
+Mizoram,Āīzawl,23.7104,92.72,8.55
+Manipur,Imphāl,24.82,93.95,9.11
+Puducherry,Puducherry,11.93,79.83,10.24
+Himāchal Pradesh,Shimla,31.1033,77.1722,4.44
+Meghālaya,Shillong,25.5744,91.8789,6.21
+Andaman and Nicobar Islands,Port Blair,11.6667,92.75,9.22
+Sikkim,Gangtok,27.33,88.62,6.23
+Nāgāland,Kohīma,25.6667,94.1194,7.17
+Arunāchal Pradesh,Itānagar,27.1,93.62,9.68
+Goa,Panaji,15.48,73.83,10.33
+Lakshadweep,Kavaratti,10.5626,72.6369,8.84

@@ -1,0 +1,73 @@
+State,City,CEC_System_Loss_%
+Delhi,Delhi,8.45
+Delhi,New Delhi,8.38
+Mahārāshtra,Mumbai,8.93
+Mahārāshtra,Pune,8.34
+Mahārāshtra,Nāgpur,9.62
+West Bengal,Kolkāta,9.19
+West Bengal,Hāora,9.28
+West Bengal,Durgāpur,9.67
+Karnātaka,Bangalore,7.02
+Karnātaka,Mysore,8.11
+Karnātaka,Hubli,8.09
+Tamil Nādu,Chennai,9.12
+Tamil Nādu,Madurai,10.72
+Tamil Nādu,Coimbatore,8.46
+Telangana,Hyderābād,8.59
+Telangana,Warangal,9.49
+Telangana,Nizāmābād,9.39
+Gujarāt,Ahmadābād,9.53
+Gujarāt,Sūrat,9.34
+Gujarāt,Vadodara,9.81
+Uttar Pradesh,Lucknow,8.96
+Uttar Pradesh,Cawnpore,9.04
+Uttar Pradesh,Mirzāpur,9.56
+Rājasthān,Jaipur,8.56
+Rājasthān,Kota,9.23
+Rājasthān,Jodhpur,8.54
+Madhya Pradesh,Indore,8.18
+Madhya Pradesh,Bhopāl,8.31
+Madhya Pradesh,Jabalpur,8.98
+Andhra Pradesh,Visakhapatnam,9.27
+Andhra Pradesh,Bezwāda,10.37
+Andhra Pradesh,Guntūr,10.39
+Bihār,Patna,9.04
+Bihār,Gaya,9.51
+Bihār,Bhāgalpur,9.13
+Punjab,Ludhiāna,8.59
+Punjab,Amritsar,8.69
+Punjab,Jalandhar,8.45
+Jharkhand,Jamshedpur,9.88
+Jharkhand,Dhanbād,9.42
+Jharkhand,Rānchi,7.96
+Haryāna,Farīdābād,8.55
+Haryāna,Rohtak,8.59
+Haryāna,Hisar,8.87
+Jammu and Kashmīr,Srīnagar,3.4
+Jammu and Kashmīr,Jammu,8.39
+Jammu and Kashmīr,Handwāra,4.6
+Chhattīsgarh,Bhilai,9.58
+Chhattīsgarh,Raipur,9.85
+Chhattīsgarh,Bilāspur,9.93
+Chandīgarh,Chandīgarh,7.84
+Assam,Dispur,8.61
+Assam,Guwāhāti,8.7
+Odisha,Bhubaneshwar,9.68
+Odisha,Raurkela,9.9
+Odisha,Cuttack,9.86
+Kerala,Thiruvananthapuram,8.85
+Kerala,Kochi,9.3
+Kerala,Calicut,9.61
+Uttarakhand,Dehra Dūn,7.88
+Tripura,Agartala,9.2
+Mizoram,Āīzawl,7.3
+Manipur,Imphāl,7.81
+Puducherry,Puducherry,8.96
+Himāchal Pradesh,Shimla,3.08
+Meghālaya,Shillong,4.9
+Andaman and Nicobar Islands,Port Blair,8.02
+Sikkim,Gangtok,4.8
+Nāgāland,Kohīma,5.95
+Arunāchal Pradesh,Itānagar,8.03
+Goa,Panaji,9.06
+Lakshadweep,Kavaratti,7.63
